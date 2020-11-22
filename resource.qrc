@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/widget">
+        <file alias="exitN">resource/widget/exitN.png</file>
+        <file alias="exitT">resource/widget/exitT.png</file>
+        <file alias="mouse">resource/widget/mouse_move.png</file>
+        <file alias="newgameN">resource/widget/newgameN.png</file>
+        <file alias="newgameT">resource/widget/newgameT.png</file>
+        <file alias="normal">resource/widget/normal.png</file>
+        <file alias="settingsN">resource/widget/settingsN.png</file>
+        <file alias="settingsT">resource/widget/settingsT.png</file>
+        <file alias="title">resource/widget/title.png</file>
+        <file alias="cancelN">resource/widget/cancelN.png</file>
+        <file alias="cancelT">resource/widget/cancelT.png</file>
+        <file alias="confirmN">resource/widget/confirmN.png</file>
+        <file alias="confirmT">resource/widget/confirmT.png</file>
+        <file alias="fullscreanN">resource/widget/fullscreanN.png</file>
+        <file alias="fullscreanT">resource/widget/fullscreanT.png</file>
+        <file alias="windowN">resource/widget/windowN.png</file>
+        <file alias="windowT">resource/widget/windowT.png</file>
+        <file alias="noshowN">resource/widget/noshowN.png</file>
+        <file alias="noshowT">resource/widget/noshowT.png</file>
+        <file alias="showN">resource/widget/showN.png</file>
+        <file alias="showT">resource/widget/showT.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file alias="gamebgm">resource/background/bgm.wav</file>
+        <file alias="settingsbg">resource/background/settingsbg.png</file>
+        <file alias="yuki">resource/background/YUKI_e01a4.png</file>
+        <file alias="titlebgm">resource/background/titlebgm.wav</file>
+        <file alias="gamebackground">resource/background/gamebackground.png</file>
+    </qresource>
+    <qresource prefix="/entity/protagonist">
+        <file alias="normal">resource/entity/protagonist/normal.png</file>
+        <file alias="walk1">resource/entity/protagonist/walk1.png</file>
+        <file alias="walk2">resource/entity/protagonist/walk2.png</file>
+    </qresource>
+    <qresource prefix="/entity/nenecchi">
+        <file alias="attack">resource/entity/nenecchi/attack.png</file>
+        <file alias="attacksound">resource/entity/nenecchi/henhen.wav</file>
+        <file alias="hurt">resource/entity/nenecchi/hurt.png</file>
+        <file alias="hurtsound">resource/entity/nenecchi/hurt.wav</file>
+        <file alias="nene">resource/entity/nenecchi/Sakura_Nene.png</file>
+        <file alias="diesound">resource/entity/nenecchi/sonna.wav</file>
+        <file alias="die">resource/entity/nenecchi/die.png</file>
+    </qresource>
+    <qresource prefix="/entity/sword">
+        <file alias="sword">resource/entity/sword/sword.png</file>
+    </qresource>
+    <qresource prefix="/entity/bullet">
+        <file alias="bullet">resource/entity/bullet/bullet1.png</file>
+    </qresource>
+    <qresource prefix="/entity/monster"/>
+    <qresource prefix="/entity/assassin">
+        <file alias="assassin_1">resource/entity/assassin/assassin_1.png</file>
+        <file alias="assassin_2">resource/entity/assassin/assassin_2.png</file>
+    </qresource>
+    <qresource prefix="/entity/spikeweed">
+        <file alias="spikeweed">resource/entity/spikeweed/spikeweed.png</file>
+    </qresource>
+    <qresource prefix="/entity/xve">
+        <file>resource/entity/xve/xve.png</file>
+    </qresource>
+</RCC>
